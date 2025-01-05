@@ -11,7 +11,6 @@
 
 
 
-
 <table>
   <thead>
     <tr>
@@ -24,32 +23,32 @@
     <tr>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/173322256?s=70&v=4" alt="진저/주서윤" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/DeluxeEdition" target="_blank" style="text-decoration: none; color: black;">진저/주서윤</a>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/DeluxeEdition" target="_blank" style="text-decoration: none; color: black; font-size: 5px;">진저/주서윤</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/179550152?v=4" alt="유원/김소원" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/rkgus47" target="_blank" style="text-decoration: none; color: black;">유원/김소원</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/170286204?v=4" alt="민진/김민채" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/Minchaez" target="_blank" style="text-decoration: none; color: black;">👑민진/김민채</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/144753583?v=4" alt="움/정새움" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/aeioiie" target="_blank" style="text-decoration: none; color: black;">움/정새움</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/170184084?v=4" alt="사샤/이예영" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/LEEYEYEONG" target="_blank" style="text-decoration: none; color: black;">사샤/이예영</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/163387941?v=4" alt="하치와레/심성민" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/lovehachiware" target="_blank" style="text-decoration: none; color: black;">하치와레/심성민</a>
       </td>
     </tr>
@@ -66,38 +65,37 @@
     <tr>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/161105713?v=4" alt="케리/김현겸" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/NekoGroove01" target="_blank" style="text-decoration: none; color: black;">👑케리/김현겸</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/181595215?v=4" alt="헬렌/백선아" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/snahpaek" target="_blank" style="text-decoration: none; color: black;">헬렌/백선아</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
-        <img src="https://via.placeholder.com/80" alt="사인즈/장태준" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <img src="https://via.placeholder.com/120" alt="사인즈/장태준" 
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://via.placeholder.com/80" target="_blank" style="text-decoration: none; color: black;">사인즈/장태준</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/128395453?v=4" alt="송월/김민지" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/songwol38" target="_blank" style="text-decoration: none; color: black;">송월/김민지</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
-        <img src="https://via.placeholder.com/80" alt="피트/배경준" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <img src="https://via.placeholder.com/120" alt="피트/배경준" 
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://via.placeholder.com/80" target="_blank" style="text-decoration: none; color: black;">피트/배경준</a>
       </td>
       <td style="border: 2px solid black; text-align: center;">
         <img src="https://avatars.githubusercontent.com/u/148263461?v=4" alt="흠/연찬흠" 
-             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/moot1801" target="_blank" style="text-decoration: none; color: black;">흠/연찬흠</a>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 
 
