@@ -100,7 +100,7 @@
           <sub>피트/배경준</sub>  
       </td>
       <td style="border: 2px solid black;">
-        <a href="https://github.com/lovehachiware" target="_blank">
+        <a href="https://github.com/moot1801" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148263461?v=4" width="100px;" alt style="max-width: 100%;">
           <br>
           <sub>흠/연찬흠</sub>  
