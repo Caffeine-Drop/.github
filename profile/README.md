@@ -68,36 +68,42 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/161105713?v=4" alt="케리/김현겸" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/NekoGroove01" target="_blank" style="text-decoration: none; color: black;">👑케리/김현겸</a>
+    <tr align="center">
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/NekoGroove01" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161105713?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>👑케리/김현겸</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/181595215?v=4" alt="헬렌/백선아" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/snahpaek" target="_blank" style="text-decoration: none; color: black;">헬렌/백선아</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/snahpaek" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/181595215?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>헬렌/백선아</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://via.placeholder.com/120" alt="사인즈/장태준" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://via.placeholder.com/80" target="_blank" style="text-decoration: none; color: black;">사인즈/장태준</a>
+      <td style="border: 2px solid black;">
+        <a href="https://via.placeholder.com/100" target="_blank">
+          <img src="https://via.placeholder.com/100" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>사인즈/장태준</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/128395453?v=4" alt="송월/김민지" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/songwol38" target="_blank" style="text-decoration: none; color: black;">송월/김민지</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/songwol38" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128395453?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>송월/김민지</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://via.placeholder.com/120" alt="피트/배경준" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://via.placeholder.com/80" target="_blank" style="text-decoration: none; color: black;">피트/배경준</a>
+      <td style="border: 2px solid black;">
+        <a href="https://via.placeholder.com/100" target="_blank">
+          <img src="https://via.placeholder.com/100" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>피트/배경준</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/148263461?v=4" alt="흠/연찬흠" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/moot1801" target="_blank" style="text-decoration: none; color: black;">흠/연찬흠</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/lovehachiware" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/148263461?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>흠/연찬흠</sub>  
       </td>
     </tr>
   </tbody>
