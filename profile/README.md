@@ -11,72 +11,48 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Circle Image in Table</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      text-align: center;
-    }
-    th, td {
-      border: 2px solid black; /* 테두리 굵기 설정 */
-      padding: 10px;
-    }
-    .circle-image {
-      width: 80px; /* 이미지 너비 */
-      height: 80px; /* 이미지 높이 */
-      border-radius: 50%; /* 원형 만들기 */
-      object-fit: cover; /* 이미지 왜곡 방지 */
-      border: 2px solid black; /* 선택적: 테두리 */
-    }
-  </style>
-</head>
-<body>
-  <h2>Caffeine Drop</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Design</th>
-        <th>PM</th>
-        <th colspan="4">[FE] Web</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <img src="https://via.placeholder.com/80" alt="진저/주서윤" class="circle-image"><br>
-          진저/주서윤
-        </td>
-        <td>
-          <img src="https://via.placeholder.com/80" alt="유원/김소원" class="circle-image"><br>
-          유원/김소원
-        </td>
-        <td>
-          <img src="https://via.placeholder.com/80" alt="민진/김민채" class="circle-image"><br>
-          민진/김민채
-        </td>
-        <td>
-          <img src="https://via.placeholder.com/80" alt="음/정새움" class="circle-image"><br>
-          음/정새움
-        </td>
-        <td>
-          <img src="https://via.placeholder.com/80" alt="사샤/이예영" class="circle-image"><br>
-          사샤/이예영
-        </td>
-        <td>
-          <img src="https://via.placeholder.com/80" alt="사샤/이예영" class="circle-image"><br>
-          사샤/이예영
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</body>
-</html>
+
+<table>
+  <thead>
+    <tr>
+      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">Design</th>
+      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">PM</th>
+      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="5">[FE] Web</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/173322256?s=70&v=4" alt="진저/주서윤" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/DeluxeEdition" target="_blank" style="text-decoration: none; color: black;">진저/주서윤</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/179550152?v=4" alt="유원/김소원" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/rkgus47" target="_blank" style="text-decoration: none; color: black;">유원/김소원</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/170286204?v=4" alt="민진/김민채" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/Minchaez" target="_blank" style="text-decoration: none; color: black;">👑민진/김민채</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/144753583?v=4" alt="움/정새움" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/aeioiie" target="_blank" style="text-decoration: none; color: black;">움/정새움</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/170184084?v=4" alt="사샤/이예영" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/LEEYEYEONG" target="_blank" style="text-decoration: none; color: black;">사샤/이예영</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 
 <!--
