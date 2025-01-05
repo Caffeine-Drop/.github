@@ -9,19 +9,20 @@
 
 ![mvp04](https://github.com/user-attachments/assets/064e9ee4-a72c-491b-b99b-07d5a60ffccf)
 
-|Design|PM|Front Dev.456|
-|------|------|------------------------|
-|1|2|3|4|5|6|
 
 <table>
     <tr>
-        <td>셀 1
-        <td colspan="2">병합된 헤더</td>
+        <td><center>Designer</center>
+        <td><center>PM</center>
+        <td colspan="4">Front Dev.</td>
     </tr>
     <tr>
-        <td>셀 2
-        <td>셀 3</td>
-        <td>셀 4</td>
+        <td>진저
+        <td>유원
+        <td>민진</td>
+        <td>샤샤</td>
+        <td>움</td>
+        <td>하치와레</td>
     </tr>
 </table>
 
