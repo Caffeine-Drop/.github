@@ -83,7 +83,7 @@
       </td>
       <td style="border: 2px solid black;">
         <a href="https://via.placeholder.com/100" target="_blank">
-          <img src="https://via.placeholder.com/100" width="100px;" alt style="max-width: 100%;">
+          <img src="https://i.ibb.co/9H1CfZc/image.png" width="100px;" alt style="max-width: 100%;">
           <br>
           <sub>사인즈/장태준</sub>  
       </td>
@@ -95,7 +95,7 @@
       </td>
       <td style="border: 2px solid black;">
         <a href="https://via.placeholder.com/100" target="_blank">
-          <img src="https://via.placeholder.com/100" width="100px;" alt style="max-width: 100%;">
+          <img src="https://i.ibb.co/9H1CfZc/image.png" width="100px;" alt style="max-width: 100%;">
           <br>
           <sub>피트/배경준</sub>  
       </td>
