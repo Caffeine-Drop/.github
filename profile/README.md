@@ -17,7 +17,7 @@
     <tr>
       <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">Design</th>
       <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">PM</th>
-      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="6">[FE] Web</th>
+      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="6">Front End Dev.</th>
     </tr>
   </thead>
   <tbody>
@@ -51,6 +51,48 @@
         <img src="https://avatars.githubusercontent.com/u/163387941?v=4" alt="하치와레/심성민" 
              style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/lovehachiware" target="_blank" style="text-decoration: none; color: black;">하치와레/심성민</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="6">Back End Dev.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/161105713?v=4" alt="케리/김현겸" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/NekoGroove01" target="_blank" style="text-decoration: none; color: black;">👑케리/김현겸</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/181595215?v=4" alt="헬렌/백선아" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/snahpaek" target="_blank" style="text-decoration: none; color: black;">헬렌/백선아</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://via.placeholder.com/80" alt="사인즈/장태준" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://via.placeholder.com/80" target="_blank" style="text-decoration: none; color: black;">사인즈/장태준</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/128395453?v=4" alt="송월/김민지" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/songwol38" target="_blank" style="text-decoration: none; color: black;">송월/김민지</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://via.placeholder.com/80" alt="피트/배경준" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://via.placeholder.com/80" target="_blank" style="text-decoration: none; color: black;">피트/배경준</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/148263461?v=4" alt="흠/연찬흠" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/moot1801" target="_blank" style="text-decoration: none; color: black;">흠/연찬흠</a>
       </td>
     </tr>
   </tbody>
