@@ -8,6 +8,23 @@
 ![mvp03](https://github.com/user-attachments/assets/9880c9e7-f11c-4e1f-9adf-c8c8f069d2f7)
 
 ![mvp04](https://github.com/user-attachments/assets/064e9ee4-a72c-491b-b99b-07d5a60ffccf)
+
+|Design|PM|Front Dev.456|
+|------|------|------------------------|
+|1|2|3|4|5|6|
+
+<table>
+    <tr>
+        <td>셀 1
+        <td colspan="2">병합된 헤더</td>
+    </tr>
+    <tr>
+        <td>셀 2
+        <td>셀 3</td>
+        <td>셀 4</td>
+    </tr>
+</table>
+
 <!--
 
 **Here are some ideas to get you started:**
