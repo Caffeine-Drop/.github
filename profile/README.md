@@ -17,7 +17,7 @@
     <tr>
       <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">Design</th>
       <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">PM</th>
-      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="5">[FE] Web</th>
+      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="6">[FE] Web</th>
     </tr>
   </thead>
   <tbody>
@@ -46,6 +46,11 @@
         <img src="https://avatars.githubusercontent.com/u/170184084?v=4" alt="사샤/이예영" 
              style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
         <a href="https://github.com/LEEYEYEONG" target="_blank" style="text-decoration: none; color: black;">사샤/이예영</a>
+      </td>
+      <td style="border: 2px solid black; text-align: center;">
+        <img src="https://avatars.githubusercontent.com/u/163387941?v=4" alt="하치와레/심성민" 
+             style="display: block; margin: auto; width: 80px; height: 80px; border-radius: 50%; border: 2px solid black;"><br>
+        <a href="https://github.com/lovehachiware" target="_blank" style="text-decoration: none; color: black;">하치와레/심성민</a>
       </td>
     </tr>
   </tbody>
