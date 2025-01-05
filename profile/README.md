@@ -20,36 +20,42 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/173322256?s=70&v=4" alt="진저/주서윤" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/DeluxeEdition" target="_blank" style="text-decoration: none; color: black; font-size: 5px;">진저/주서윤</a>
+    <tr align="center">
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/DeluxeEdition" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173322256?s=70&v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>진저/주서윤</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/179550152?v=4" alt="유원/김소원" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/rkgus47" target="_blank" style="text-decoration: none; color: black;">유원/김소원</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/rkgus47" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/179550152?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>유원/김소원</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/170286204?v=4" alt="민진/김민채" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/Minchaez" target="_blank" style="text-decoration: none; color: black;">👑민진/김민채</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/Minchaez" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/170286204?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>👑민진/김민채</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/144753583?v=4" alt="움/정새움" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/aeioiie" target="_blank" style="text-decoration: none; color: black;">움/정새움</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/aeioiie" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/144753583?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>움/정새움</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/170184084?v=4" alt="사샤/이예영" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/LEEYEYEONG" target="_blank" style="text-decoration: none; color: black;">사샤/이예영</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/LEEYEYEONG" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/170184084?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>사샤/이예영</sub>  
       </td>
-      <td style="border: 2px solid black; text-align: center;">
-        <img src="https://avatars.githubusercontent.com/u/163387941?v=4" alt="하치와레/심성민" 
-             style="display: block; margin: auto; width: 120px; height: 120px; border-radius: 50%; border: 2px solid black;"><br>
-        <a href="https://github.com/lovehachiware" target="_blank" style="text-decoration: none; color: black;">하치와레/심성민</a>
+      <td style="border: 2px solid black;">
+        <a href="https://github.com/lovehachiware" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163387941?v=4" width="100px;" alt style="max-width: 100%;">
+          <br>
+          <sub>하치와레/심성민</sub>  
       </td>
     </tr>
   </tbody>
