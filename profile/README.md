@@ -94,8 +94,8 @@
           <sub>송월/김민지</sub>  
       </td>
       <td style="border: 2px solid black;">
-        <a href="https://via.placeholder.com/100" target="_blank">
-          <img src="https://i.ibb.co/9H1CfZc/image.png" width="100px;" alt style="max-width: 100%;">
+        <a href="https://github.com/plar8271" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/182948012?v=4" width="100px;" alt style="max-width: 100%;">
           <br>
           <sub>피트/배경준</sub>  
       </td>
