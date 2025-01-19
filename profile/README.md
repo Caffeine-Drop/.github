@@ -16,7 +16,7 @@
     <tr>
       <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">Design</th>
       <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;">PM</th>
-      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="6">Front End Dev.</th>
+      <th style="border: 2px solid black; text-align: center; background-color: #f2f2f2;" colspan="5">Front End Dev.</th>
     </tr>
   </thead>
   <tbody>
@@ -50,12 +50,6 @@
           <img src="https://avatars.githubusercontent.com/u/170184084?v=4" width="100px;" alt style="max-width: 100%;">
           <br>
           <sub>사샤/이예영</sub>  
-      </td>
-      <td style="border: 2px solid black;">
-        <a href="https://github.com/lovehachiware" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/163387941?v=4" width="100px;" alt style="max-width: 100%;">
-          <br>
-          <sub>하치와레/심성민</sub>  
       </td>
     </tr>
   </tbody>
